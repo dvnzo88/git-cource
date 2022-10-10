@@ -1,3 +1,3 @@
 # git and
 
-crash roddd
+console.log('test 2')
